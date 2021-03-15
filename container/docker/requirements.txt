@@ -1,0 +1,3 @@
+pip>=21.0.1
+pandas
+xgboost==1.3.3
